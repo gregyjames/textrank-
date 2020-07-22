@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+*.log
+
+*.user
+
+TextRank\+\+/x64/Debug/TextRank\+\+.tlog/
+
+TextRank\+\+/x64/Debug/
+
+TextRank\+\+/x64/Release/TextRank\+\+.tlog/
+
+TextRank\+\+/x64/Release/
+
+x64/Release/
